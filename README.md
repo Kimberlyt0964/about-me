@@ -13,7 +13,7 @@ She went to school at _P.S.94_, _John J. Pershing_ and is now currently a studen
 
 ---
 
-#### Schedule:
+## Schedule:
 1. Period 1: Physical Education
 
 2. Period 2: Chemistry
@@ -32,7 +32,7 @@ She went to school at _P.S.94_, _John J. Pershing_ and is now currently a studen
 
 ---
 
-#### Random things:
+## Random things:
 * Food that I like:
     *  Chocolate
     *  Ice Cream
